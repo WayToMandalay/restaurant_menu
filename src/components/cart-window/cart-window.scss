@@ -1,0 +1,98 @@
+.cart {
+
+    &-bg {
+        height: 100vh;
+        width: 100vw;
+        background-color: rgba(255, 255, 255, 0.8);
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: 6;
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    &-close-btn {
+        position: absolute;
+        right: 30px;
+        top: 10px;
+        cursor: pointer;
+    }
+
+    &-window {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+        width: 644px;
+        min-height: 100vh;
+        background-color: #274829;
+        color: #fff;
+        z-index: 17;
+        // position: absolute;
+        // right: 0;
+        // top: 0;
+        padding: 38px 0;
+        overflow-y: auto;
+
+        &-title {
+            font-weight: 500;
+            font-size: 42px;
+            margin-bottom: 40px;
+        }
+
+        &-list {
+            height: 50vh;
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            font-size: 22px;
+            font-weight: 500;
+            color: #FBFAF8;
+            padding: 10px 0;
+            overflow-y: auto;
+
+        }
+
+        &-line {
+            padding: 20px 10%;
+            width: 100%;
+            height: 60px;
+            font-size: 18px;
+            font-weight: 400;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-top: 1px solid #FBFAF8;
+            &:nth-of-type(3n) {
+                margin-top: 100px;
+            }
+            &:nth-of-type(2n) {
+                border-bottom: 1px solid #FBFAF8;
+            }
+        }
+        &-order {
+            padding: 44px 10%;
+            width: 100%;
+            
+        }
+        &-btn {
+            width: 100%;
+            background-color: #FBFAF8;
+            color: #274829;
+            font-weight: 700;
+            text-transform: uppercase;
+            height: 57px;
+            line-height: 57px;
+            text-align: center;
+            border-radius: 30px;
+            cursor: pointer;
+        }
+        &-total {
+            font-weight: 500;
+            font-size: 22px;
+        }
+    }
+    
+}

@@ -1,0 +1,39 @@
+.item_page {
+  padding-top: 50px;
+  display: flex;
+  justify-content: center;
+  column-gap: 100px;
+
+  &-img {
+    width: 427px;
+    height: 427px;
+    object-fit: cover;
+  }
+
+  &-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 200px;
+    row-gap: 20px;
+    span {
+      font-size: 16px;
+      color: #ADADAD;
+    }
+  }
+  &-title {
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 22px;
+  }
+  &-price {
+    font-weight: 500;
+    font-size: 22px;
+  }
+  &-ingredients {
+    font-size: 14px;
+    font-weight: 400;
+    color: #545454;
+  }
+
+}

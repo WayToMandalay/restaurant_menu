@@ -1,0 +1,166 @@
+{
+	"menu": [
+		{
+			"title": "Chicken Bowl",
+			"price": 30,
+      "weight": 400,
+			"url": "https://raw.githubusercontent.com/WayToMandalay/restaurant_menu/files/bowls/chicken-bowl.webp",
+			"category": "bowls",
+			"id": 1,
+			"ingredients": "Here is a list of ingredients for ITEM 1"
+		},
+		{
+			"title": "Salmon Bowl",
+			"price": 35,
+      "weight": 350,
+			"url": "https://raw.githubusercontent.com/WayToMandalay/restaurant_menu/files/bowls/salmon-bowl.webp",
+			"category": "bowls",
+			"id": 2,
+			"ingredients": "Here is a list of ingredients for ITEM 2"
+		},
+        {
+			"title": "Shrimp Bowl",
+			"price": 35,
+      "weight": 350,
+			"url": "https://raw.githubusercontent.com/WayToMandalay/restaurant_menu/files/bowls/shrimp-bowl.webp",
+			"category": "bowls",
+			"id": 3,
+			"ingredients": "Here is a list of ingredients for ITEM 3"
+		},
+        {
+			"title": "Veggie Bowl",
+			"price": 30,
+      "weight": 400,
+			"url": "https://raw.githubusercontent.com/WayToMandalay/restaurant_menu/files/bowls/veggie-bowl.webp",
+			"category": "bowls",
+			"id": 4,
+			"ingredients": "Here is a list of ingredients for ITEM 4"
+		},
+        {
+			"title": "Apple tart",
+			"price": 12,
+      "weight": 250,
+			"url": "https://raw.githubusercontent.com/WayToMandalay/restaurant_menu/files/breakfast/apple-tart.webp",
+			"category": "breakfasts",
+			"id": 5,
+			"ingredients": "Here is a list of ingredients for ITEM 5"
+		},
+        {
+			"title": "Carrot cake",
+			"price": 15,
+      "weight": 250,
+			"url": "https://raw.githubusercontent.com/WayToMandalay/restaurant_menu/files/breakfast/carrot-cake.webp",
+			"category": "breakfasts",
+			"id": 6,
+			"ingredients": "Here is a list of ingredients for ITEM 6"
+		},
+        {
+			"title": "Peanut Toast",
+			"price": 8,
+      "weight": 150,
+			"url": "https://raw.githubusercontent.com/WayToMandalay/restaurant_menu/files/breakfast/peanut-toast.webp",
+			"category": "breakfasts",
+			"id": 7,
+			"ingredients": "Here is a list of ingredients for ITEM 7"
+		},
+        {
+			"title": "Chocolate granola",
+			"price": 12,
+      "weight": 400,
+			"url": "https://raw.githubusercontent.com/WayToMandalay/restaurant_menu/files/breakfast/chocolate-granola.webp",
+			"category": "breakfasts",
+			"id": 8,
+			"ingredients": "Here is a list of ingredients for ITEM 8"
+		},
+        {
+			"title": "Pecan Waffles",
+			"price": 10,
+      "weight": 150,
+			"url": "https://raw.githubusercontent.com/WayToMandalay/restaurant_menu/files/breakfast/pecan-waffles.webp",
+			"category": "breakfasts",
+			"id": 9,
+			"ingredients": "Here is a list of ingredients for ITEM 9"
+		},
+        {
+			"title": "Vanilla Pancake",
+			"price": 18,
+      "weight": 450,
+			"url": "https://raw.githubusercontent.com/WayToMandalay/restaurant_menu/files/breakfast/vanilla-pancake.webp",
+			"category": "breakfasts",
+			"id": 10,
+			"ingredients": "Here is a list of ingredients for ITEM 10"
+		},
+        {
+			"title": "Chocolate Cake",
+			"price": 13,
+      "weight": 270,
+			"url": "https://raw.githubusercontent.com/WayToMandalay/restaurant_menu/files/desserts/cake.webp",
+			"category": "desserts",
+			"id": 11,
+			"ingredients": "Here is a list of ingredients for ITEM 11"
+		},
+        {
+			"title": "Donnuts With Topping",
+			"price": 8,
+      "weight": 200,
+			"url": "https://raw.githubusercontent.com/WayToMandalay/restaurant_menu/files/desserts/donnuts-with-topping.webp",
+			"category": "desserts",
+			"id": 12,
+			"ingredients": "Here is a list of ingredients for ITEM 12"
+		},
+        {
+			"title": "White Ice-cream",
+			"price": 15,
+      "weight": 200,
+			"url": "https://raw.githubusercontent.com/WayToMandalay/restaurant_menu/files/desserts/ice-cream.webp",
+			"category": "desserts",
+			"id": 13,
+			"ingredients": "Here is a list of ingredients for ITEM 13"
+		},
+        {
+			"title": "Macarons",
+			"price": 20,
+      "weight": 80,
+			"url": "https://raw.githubusercontent.com/WayToMandalay/restaurant_menu/files/desserts/macarons.webp",
+			"category": "desserts",
+			"id": 14,
+			"ingredients": "Here is a list of ingredients for ITEM 14"
+		},
+        {
+			"title": "Cold Tea",
+			"price": 5,
+      "weight": 500,
+			"url": "https://raw.githubusercontent.com/WayToMandalay/restaurant_menu/files/drinks/cold-tea.webp",
+			"category": "drinks",
+			"id": 15,
+			"ingredients": "Here is a list of ingredients for ITEM 15"
+		},
+        {
+			"title": "Detox drink",
+			"price": 25,
+      "weight": 600,
+			"url": "https://raw.githubusercontent.com/WayToMandalay/restaurant_menu/files/drinks/detox.webp",
+			"category": "drinks",
+			"id": 16,
+			"ingredients": "Here is a list of ingredients for ITEM 16"
+		},
+        {
+			"title": "Mango&Lemon Juice",
+			"price": 12,
+      "weight": 400,
+			"url": "https://raw.githubusercontent.com/WayToMandalay/restaurant_menu/files/drinks/mango-lemon.webp",
+			"category": "drinks",
+			"id": 17,
+			"ingredients": "Here is a list of ingredients for ITEM 17"
+		},
+        {
+			"title": "Orange Juice",
+			"price": 12,
+      "weight": 400,
+			"url": "https://raw.githubusercontent.com/WayToMandalay/restaurant_menu/files/drinks/orange-juice.webp",
+			"category": "drinks",
+			"id": 18,
+			"ingredients": "Here is a list of ingredients for ITEM 18"
+		}
+	]
+}

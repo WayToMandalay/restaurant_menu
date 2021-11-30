@@ -1,0 +1,45 @@
+.cart-table-item {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #FBFAF8;
+  margin-bottom: 20px;
+  position: relative;
+
+  &-close {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 26px;
+    width: 26px;
+    transform: translate(50%, -50%);
+    font-size: 30px;
+    line-height: 100%;
+    background-color: #274829;
+    cursor: pointer;
+  }
+
+  &-header {
+    display: flex;
+    justify-content: space-between;
+    padding: 25px 20px;
+  }
+  &-amount {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #FBFAF8;
+    color: #222222;
+    height: 60px;
+  }
+
+  &-minus, 
+  &-plus
+  {
+    height: 100%;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+  }
+}
