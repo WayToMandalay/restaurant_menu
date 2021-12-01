@@ -13,13 +13,13 @@ const App = () => {
     return (
         <div className="app">
             <AppHeader></AppHeader>
-            { <Switch>
+             <Switch>
                 <Route path='/' exact component={MainPage}></Route>
                 <Route path='/cart' exact component={CartPage}></Route>
                 <Route path='/:path' component={ItemsList}></Route>
                 <Route path='/item/:id' exact component={ItemPage}></Route>
                 
-            </Switch> }
+            </Switch> 
             
             <CartWindow></CartWindow>
         </div>
